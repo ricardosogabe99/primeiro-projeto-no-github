@@ -37,3 +37,10 @@ canal-comunicacao/
 ├── docs/         # Documentação do projeto
 └── README.md
 
+🤝 Contribuição
+
+Contribuições são sempre bem-vindas!
+Sugestões, melhorias e novas ideias podem ser compartilhadas por meio de issues ou pull requests.
+
+🔔 Objetivo Final: Facilitar a comunicação entre escola e família, fortalecendo a parceria educativa e garantindo maior acompanhamento da vida escolar dos alunos.
+
